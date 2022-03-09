@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @berk1835
+- 👋 Hi, I’m Rebekah White
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning transcriptomic analysis!
 - 📫 Reach me on Twitter @rebekah_jwhite 
