@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rebekah White
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning transcriptomic analysis
+- 👀 I am interested in bioinformatics
+- 🌱 I am currently learning transcriptomic analysis
 - ✨ I am improving my R skills
 - 📫 Reach me on Twitter @rebekah_jwhite 
 
