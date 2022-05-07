@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rebekah White
 - 👀 I am interested in bioinformatics
 - 🌱 I am currently learning transcriptomic analysis
-- ✨ I am improving my R skills
+- ✨ I am improving my R and ImageJ macro skills
 - 📫 Reach me on Twitter @rebekah_jwhite 
 
 <!---
