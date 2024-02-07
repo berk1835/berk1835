@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rebekah White
 - 👀 I am interested in bioinformatics
 - 🌱 I am currently doing transcriptomic analysis (RNA-seq)
-- ✨ I am improving my R and ImageJ macro skills
+- ✨ I am improving my command line, R, and ImageJ macro skills
 - 📫 Reach me on Twitter @rebekah_jwhite or Instagram @bio_bex
 
 <!---
