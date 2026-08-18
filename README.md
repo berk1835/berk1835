@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Rebekah White
+- 👋 Hi, I’m Rebekah J. White
 - 👀 I am interested in bioinformatics
-- 🌱 I am currently doing transcriptomic analysis (RNA-seq)
+- 📚 I am publishing in transcriptomic analysis (RNA-seq)
+- 🌱 I am currently doing proteomics 
 - ✨ I am improving my command line, R, and ImageJ macro skills
-- 📫 Reach me on Twitter @rebekah_jwhite or Instagram @bio_bex
+- 📫 Reach me via email rwhite4@ed.ac.uk Instagram @bio_bex
 
 <!---
 berk1835/berk1835 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
