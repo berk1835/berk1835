@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rebekah J. White
 - 👀 I am interested in bioinformatics
 - 📚 I am publishing in transcriptomic analysis (RNA-seq)
-- 🌱 I am currently doing proteomics 
-- ✨ I am improving my command line, R, and ImageJ macro skills
+- 🌱 I am currently focusing on proteomics 
+- ✨ I am using command line, R, and ImageJ macros
 - 🔓 Find code and datasets associated with released publications on GitHub.com/drrjwhite
 - 📫 Reach me via email rwhite4@ed.ac.uk Instagram @bio_bex
 
