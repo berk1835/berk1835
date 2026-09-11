@@ -4,7 +4,7 @@
 - 🌱 I am currently focusing on proteomics 
 - ✨ I am also using command line, R, and ImageJ macros
 - 🔓 Find code and datasets associated with released publications on GitHub.com/drrjwhite
-- 📫 Reach me via email rwhite4@ed.ac.uk Instagram @bio_bex
+- 📫 Reach me via email rwhite4@ed.ac.uk or Instagram @bio_bex
 
 <!---
 berk1835/berk1835 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
